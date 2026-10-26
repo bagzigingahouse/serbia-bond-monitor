@@ -21,12 +21,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Download official Excel and calculate report
-        run: python3 scripts/build_report.py --output-dir docs
+        run: python3 build_report.py --output-dir .
       - name: Commit report only when source data changes
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/latest.md docs/latest.json
+          git add latest.md latest.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update secondary bond trading report'
             git push
