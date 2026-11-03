@@ -3,9 +3,9 @@ name: Update secondary bond trading
 on:
   workflow_dispatch:
   schedule:
-    # 16:20 UTC on weekdays (~17:20 Serbia winter / 18:20 summer).
-    - cron: '20 16 * * 1-5'
-
+    # Dve provere svakog radnog dana, UTC
+    - cron: '17 9 * * 1-5'
+    - cron: '43 17 * * 1-5'
 permissions:
   contents: write
 
