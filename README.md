@@ -16,10 +16,10 @@ Automatsko praćenje javnih podataka Uprave za javni dug Republike Srbije o **se
 
 ## Pokretanje i kontrola
 
-Na GitHubu otvori **Actions → Update secondary bond trading → Run workflow**. Prvi rezultat proveravaš u `docs/latest.md` — bitan je datum **poslednje evidentirane transakcije**, ne datum kada je GitHub pokrenuo posao.
+Na GitHubu otvori **Actions → Update secondary bond trading → Run workflow**. Prvi rezultat proveravaš u `latest.md` — bitan je datum **poslednje evidentirane transakcije**, ne datum kada je GitHub pokrenuo posao.
 
 Za čitanje iz ChatGPT agenta koristi ovu stalnu adresu:  
-`https://github.com/bagzigingahouse/serbia-bond-monitor/blob/main/docs/latest.md`
+`https://github.com/bagzigingahouse/serbia-bond-monitor/blob/main/latest.md`
 
 GitHub Actions podrazumevano koristi dozvolu za pisanje (`contents: write`) definisanu u workflow fajlu. Ako prvi run javi grešku `403` pri `git push`, potrebno je u **Settings → Actions → General → Workflow permissions** uključiti **Read and write permissions**, zatim ponovo pokrenuti workflow.
 
