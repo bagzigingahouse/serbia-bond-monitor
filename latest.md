@@ -1,21 +1,26 @@
 # Sekundarno trgovanje državnim kuponskim obveznicama Srbije
 
-**Poslednji evidentirani datum trgovanja:** 2026-11-02  
-**Izvorna oznaka ažuriranja:** Last updated 03/11/2026  
+**Poslednji evidentirani datum trgovanja:** 2026-11-03  
+**Izvorna oznaka ažuriranja:** Last updated 04/11/2026  
 **Izvor:** [Uprava za javni dug — zbirni Excel](https://javnidug.gov.rs/static/uploads/Sekundarno%20trgovanje.xlsx)  
-**Obuhvat:** poslednjih 5 datuma sa trgovanjem kuponskim hartijama: 2026-11-02, 2026-10-30, 2026-10-29, 2026-10-28, 2026-10-27.
+**Obuhvat:** poslednjih 5 datuma sa trgovanjem kuponskim hartijama: 2026-11-03, 2026-11-02, 2026-10-30, 2026-10-29, 2026-10-28.
 
 Podaci su **realizovana trgovanja**, ne tekuće kupovne/prodajne kotacije. Ponderisani YTM i cena izračunati su prema ostvarenoj vrednosti trgovanja. RSD i EUR se ne sabiraju.
 
 ## Promet poslednjih pet datuma trgovanja
 
-- **RSD:** 5,183.86 mil. RSD u 23 transakcija.
-- **EUR:** 22,341.3 hilj. EUR u 5 transakcija.
+- **RSD:** 4,518.80 mil. RSD u 30 transakcija.
+- **EUR:** 22,288.7 hilj. EUR u 4 transakcija.
 
 ## Serije — poslednjih pet datuma trgovanja
 
 | Datum | Valuta | Tiker / ISIN | Dospeće | Preostalo | YTM (%) | Cena | Promet | Poslova | Δ YTM prema prethodnom trgovanju iste serije |
 |---|---|---|---|---:|---:|---:|---:|---:|---:|
+| 2026-11-03 | RSD | RSOB25210 / `RSMFRSD34101` | 2035-07-27 | 8.7 g. | 5.574 | 9917.78 | 99.34 mil. RSD | 3 | +2.9 bp (2026-10-30) |
+| 2026-11-03 | RSD | RSOB18174 / `RSMFRSD55940` | 2028-02-08 | 1.3 g. | 4.797 | 10559.04 | 84.50 mil. RSD | 4 | -28.3 bp (2026-10-30) |
+| 2026-11-03 | RSD | RSOB23208 / `RSMFRSD58761` | 2031-10-26 | 5.0 g. | 5.435 | 10680.67 | 75.83 mil. RSD | 2 | +0.3 bp (2026-11-02) |
+| 2026-11-03 | RSD | RSOB20193 / `RSMFRSD86176` | 2032-08-20 | 5.8 g. | 5.475 | 9611.75 | 13.46 mil. RSD | 1 | -0.8 bp (2026-11-02) |
+| 2026-11-03 | EUR | RSOB25211 / `RSMFRSD50263` | 2037-07-29 | 10.7 g. | 3.330 | 1161.63 | 296.2 hilj. EUR | 1 | +1.7 bp (2026-10-27) |
 | 2026-11-02 | RSD | RSOB20193 / `RSMFRSD86176` | 2032-08-20 | 5.8 g. | 5.483 | 9606.90 | 288.21 mil. RSD | 2 | -11.7 bp (2026-10-30) |
 | 2026-11-02 | RSD | RSOB23208 / `RSMFRSD58761` | 2031-10-26 | 5.0 g. | 5.432 | 10681.32 | 167.60 mil. RSD | 2 | +8.7 bp (2026-10-30) |
 | 2026-11-02 | EUR | RSOB20191 / `RSMFRSD51436` | 2040-01-31 | 13.2 g. | 3.430 | 1033.69 | 713.2 hilj. EUR | 1 | -2.0 bp (2026-10-30) |
@@ -31,21 +36,17 @@ Podaci su **realizovana trgovanja**, ne tekuće kupovne/prodajne kotacije. Ponde
 | 2026-10-28 | RSD | RSOB23208 / `RSMFRSD58761` | 2031-10-26 | 5.0 g. | 5.402 | 10687.60 | 827.90 mil. RSD | 5 | +4.8 bp (2026-10-27) |
 | 2026-10-28 | RSD | RSOB20193 / `RSMFRSD86176` | 2032-08-20 | 5.8 g. | 5.450 | 9616.51 | 480.83 mil. RSD | 1 | -18.0 bp (2026-10-27) |
 | 2026-10-28 | RSD | RSOB25210 / `RSMFRSD34101` | 2035-07-27 | 8.7 g. | 5.550 | 9926.13 | 148.89 mil. RSD | 1 | +5.0 bp (2026-10-27) |
-| 2026-10-27 | RSD | RSOB20193 / `RSMFRSD86176` | 2032-08-20 | 5.8 g. | 5.630 | 9529.30 | 667.05 mil. RSD | 1 | +76.5 bp (2026-10-23) |
-| 2026-10-27 | RSD | RSOB25210 / `RSMFRSD34101` | 2035-07-27 | 8.7 g. | 5.500 | 9958.56 | 239.01 mil. RSD | 1 | -0.5 bp (2026-10-22) |
-| 2026-10-27 | RSD | RSOB23208 / `RSMFRSD58761` | 2031-10-26 | 5.0 g. | 5.353 | 10710.61 | 32.13 mil. RSD | 1 | +0.3 bp (2026-10-26) |
-| 2026-10-27 | EUR | RSOB25211 / `RSMFRSD50263` | 2037-07-29 | 10.8 g. | 3.313 | 1162.83 | 348.9 hilj. EUR | 2 | -3.7 bp (2026-09-29) |
 
 ## Kretanje po ročnosti — poslednjih deset datuma trgovanja
 
 | Valuta | Preostala ročnost | Promet | Poslova | Različitih ISIN | Ponderisani YTM (%) |
 |---|---|---:|---:|---:|---:|
 | EUR | <1y | 51,672.2 hilj. EUR | 2 | 1 | 3.408 |
-| EUR | >10y | 1,783.9 hilj. EUR | 5 | 2 | 3.415 |
-| RSD | 1–3y | 2,233.82 mil. RSD | 4 | 1 | 5.114 |
-| RSD | 3–5y | 1,797.53 mil. RSD | 12 | 1 | 5.400 |
-| RSD | 5–7y | 1,627.71 mil. RSD | 7 | 2 | 5.547 |
-| RSD | 7–10y | 1,388.43 mil. RSD | 6 | 1 | 5.532 |
+| EUR | >10y | 1,956.5 hilj. EUR | 5 | 2 | 3.400 |
+| RSD | 1–3y | 2,318.32 mil. RSD | 8 | 1 | 5.103 |
+| RSD | 3–5y | 1,873.37 mil. RSD | 14 | 1 | 5.401 |
+| RSD | 5–7y | 1,640.60 mil. RSD | 7 | 1 | 5.547 |
+| RSD | 7–10y | 1,487.76 mil. RSD | 9 | 1 | 5.535 |
 
 ---
 
