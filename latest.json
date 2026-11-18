@@ -1,26 +1,43 @@
 {
   "source_url": "https://javnidug.gov.rs/static/uploads/Sekundarno%20trgovanje.xlsx",
-  "source_label": "Last updated 17/11/2026",
-  "latest_trade_date": "2026-11-16",
+  "source_label": "Last updated 18/11/2026",
+  "latest_trade_date": "2026-11-17",
   "last_five_trading_dates": [
+    "2026-11-17",
     "2026-11-16",
     "2026-11-13",
     "2026-11-12",
-    "2026-11-10",
-    "2026-11-09"
+    "2026-11-10"
   ],
-  "source_transaction_count_coupon_bonds": 23456,
+  "source_transaction_count_coupon_bonds": 23458,
   "last_five_trading_dates_totals": {
     "RSD": {
-      "turnover": 3439899420.98,
+      "turnover": 2325532150.74,
       "transactions": 16
     },
     "EUR": {
-      "turnover": 9688354.64,
-      "transactions": 12
+      "turnover": 6358485.8,
+      "transactions": 9
     }
   },
   "last_five_trading_dates_series": [
+    {
+      "date": "2026-11-17",
+      "ticker": "RSOB23208",
+      "isin": "RSMFRSD58761",
+      "currency": "RSD",
+      "maturity": "2031-10-26",
+      "remaining_years": 4.939,
+      "bucket": "3–5y",
+      "coupon_pct": 7.000000000000001,
+      "trades": 2,
+      "quantity": 51492.0,
+      "turnover": 546635729.76,
+      "weighted_ytm_pct": 5.63202,
+      "weighted_price": 10615.93756,
+      "previous_trade_date": "2026-11-13",
+      "yield_change_bp": 20.54
+    },
     {
       "date": "2026-11-16",
       "ticker": "RSOB26213",
@@ -190,74 +207,6 @@
       "weighted_price": 1033.35894,
       "previous_trade_date": "2026-11-05",
       "yield_change_bp": -0.85
-    },
-    {
-      "date": "2026-11-09",
-      "ticker": "RSOB23208",
-      "isin": "RSMFRSD58761",
-      "currency": "RSD",
-      "maturity": "2031-10-26",
-      "remaining_years": 4.961,
-      "bucket": "3–5y",
-      "coupon_pct": 7.000000000000001,
-      "trades": 1,
-      "quantity": 110000.0,
-      "turnover": 1166429000.0,
-      "weighted_ytm_pct": 5.63,
-      "weighted_price": 10603.9,
-      "previous_trade_date": "2026-11-04",
-      "yield_change_bp": 22.98
-    },
-    {
-      "date": "2026-11-09",
-      "ticker": "RSOB25212",
-      "isin": "RSMFRSD91606",
-      "currency": "RSD",
-      "maturity": "2030-07-30",
-      "remaining_years": 3.721,
-      "bucket": "3–5y",
-      "coupon_pct": 4.5,
-      "trades": 1,
-      "quantity": 50000.0,
-      "turnover": 494574000.0,
-      "weighted_ytm_pct": 5.195,
-      "weighted_price": 9891.48,
-      "previous_trade_date": "2026-11-06",
-      "yield_change_bp": -0.5
-    },
-    {
-      "date": "2026-11-09",
-      "ticker": "RSOB25211",
-      "isin": "RSMFRSD50263",
-      "currency": "EUR",
-      "maturity": "2037-07-29",
-      "remaining_years": 10.719,
-      "bucket": ">10y",
-      "coupon_pct": 5.0,
-      "trades": 2,
-      "quantity": 3052.0,
-      "turnover": 3097038.84,
-      "weighted_ytm_pct": 4.98635,
-      "weighted_price": 1015.1436,
-      "previous_trade_date": "2026-11-06",
-      "yield_change_bp": 168.63
-    },
-    {
-      "date": "2026-11-09",
-      "ticker": "RSOB24209",
-      "isin": "RSMFRSD36049",
-      "currency": "EUR",
-      "maturity": "2027-01-29",
-      "remaining_years": 0.222,
-      "bucket": "<1y",
-      "coupon_pct": 4.25,
-      "trades": 1,
-      "quantity": 225.0,
-      "turnover": 232830.0,
-      "weighted_ytm_pct": 3.35,
-      "weighted_price": 1034.8,
-      "previous_trade_date": "2026-11-04",
-      "yield_change_bp": -61.66
     }
   ],
   "last_ten_trading_dates_maturity_buckets": [
@@ -272,9 +221,9 @@
     {
       "currency": "EUR",
       "bucket": ">10y",
-      "total_turnover": 40684197.53,
-      "transaction_count": 17,
-      "weighted_ytm_pct": 5.06252,
+      "total_turnover": 39970951.43,
+      "transaction_count": 16,
+      "weighted_ytm_pct": 5.09165,
       "distinct_isins": 3
     },
     {
@@ -288,17 +237,17 @@
     {
       "currency": "RSD",
       "bucket": "3–5y",
-      "total_turnover": 4392917338.25,
+      "total_turnover": 4771952625.42,
       "transaction_count": 22,
-      "weighted_ytm_pct": 5.42953,
+      "weighted_ytm_pct": 5.45264,
       "distinct_isins": 2
     },
     {
       "currency": "RSD",
       "bucket": "5–7y",
-      "total_turnover": 1271114043.76,
-      "transaction_count": 11,
-      "weighted_ytm_pct": 5.5946,
+      "total_turnover": 982908643.76,
+      "transaction_count": 9,
+      "weighted_ytm_pct": 5.62726,
       "distinct_isins": 1
     },
     {
@@ -311,6 +260,23 @@
     }
   ],
   "last_45_calendar_days_series": [
+    {
+      "date": "2026-11-17",
+      "ticker": "RSOB23208",
+      "isin": "RSMFRSD58761",
+      "currency": "RSD",
+      "maturity": "2031-10-26",
+      "remaining_years": 4.939,
+      "bucket": "3–5y",
+      "coupon_pct": 7.000000000000001,
+      "trades": 2,
+      "quantity": 51492.0,
+      "turnover": 546635729.76,
+      "weighted_ytm_pct": 5.63202,
+      "weighted_price": 10615.93756,
+      "previous_trade_date": "2026-11-13",
+      "yield_change_bp": 20.54
+    },
     {
       "date": "2026-11-16",
       "ticker": "RSOB26213",
@@ -1602,74 +1568,6 @@
       "weighted_price": 11266.64818,
       "previous_trade_date": "2026-10-02",
       "yield_change_bp": 12.32
-    },
-    {
-      "date": "2026-10-02",
-      "ticker": "RSOB20193",
-      "isin": "RSMFRSD86176",
-      "currency": "RSD",
-      "maturity": "2032-08-20",
-      "remaining_years": 5.884,
-      "bucket": "5–7y",
-      "coupon_pct": 4.5,
-      "trades": 5,
-      "quantity": 52693.0,
-      "turnover": 501024893.0,
-      "weighted_ytm_pct": 5.5971,
-      "weighted_price": 9508.40482,
-      "previous_trade_date": "2026-10-01",
-      "yield_change_bp": -4.29
-    },
-    {
-      "date": "2026-10-02",
-      "ticker": "RSOB25210",
-      "isin": "RSMFRSD34101",
-      "currency": "RSD",
-      "maturity": "2035-07-27",
-      "remaining_years": 8.816,
-      "bucket": "7–10y",
-      "coupon_pct": 5.25,
-      "trades": 1,
-      "quantity": 16644.0,
-      "turnover": 163992666.24,
-      "weighted_ytm_pct": 5.6,
-      "weighted_price": 9852.96,
-      "previous_trade_date": "2026-10-01",
-      "yield_change_bp": 67.0
-    },
-    {
-      "date": "2026-10-02",
-      "ticker": "RSOB23208",
-      "isin": "RSMFRSD58761",
-      "currency": "RSD",
-      "maturity": "2031-10-26",
-      "remaining_years": 5.065,
-      "bucket": "5–7y",
-      "coupon_pct": 7.000000000000001,
-      "trades": 3,
-      "quantity": 5187.0,
-      "turnover": 58699498.13,
-      "weighted_ytm_pct": 5.46333,
-      "weighted_price": 11316.65826,
-      "previous_trade_date": "2026-10-01",
-      "yield_change_bp": 6.33
-    },
-    {
-      "date": "2026-10-02",
-      "ticker": "RSOB16145",
-      "isin": "RSMFRSD72374",
-      "currency": "EUR",
-      "maturity": "2031-10-21",
-      "remaining_years": 5.051,
-      "bucket": "5–7y",
-      "coupon_pct": 3.75,
-      "trades": 2,
-      "quantity": 800.0,
-      "turnover": 855764.0,
-      "weighted_ytm_pct": 3.01,
-      "weighted_price": 1069.70521,
-      "previous_trade_date": "2026-09-23",
-      "yield_change_bp": 1.0
     }
   ]
 }
